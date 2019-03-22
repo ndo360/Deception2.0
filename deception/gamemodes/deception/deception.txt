@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Deception"
+	"maps"		""
+	"menusystem"	"1"
+}
