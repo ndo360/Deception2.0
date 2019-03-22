@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "altarmor/dyneema_vest"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
